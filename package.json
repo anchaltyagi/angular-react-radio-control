@@ -1,0 +1,31 @@
+{
+  "name": "angular-react-radio-control",
+  "version": "0.0.1",
+  "description": "React control in angular",
+  "main": "ngReactRadioComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "radio",
+    "radio button",
+    "react radio",
+    "component",
+    "react",
+    "react-component",
+    "react angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anchaltyagi/angular-react-radio-control.git"
+  },
+  "author": "Anchal Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anchaltyagi/angular-react-radio-control/issues"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "homepage": "https://github.com/anchaltyagi/angular-react-radio-control"
+}
